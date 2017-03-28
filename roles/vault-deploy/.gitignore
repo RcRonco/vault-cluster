@@ -1,8 +1,0 @@
-.DS_Store
-.vagrant
-.tm_properties
-*.retry
-examples/hosts
-files/*.zip
-files/vault
-
