@@ -4,4 +4,4 @@
   become: yes
   become_user: root
   roles:
-    - { role: consul-install }
+    - { role: consul-deploy }
