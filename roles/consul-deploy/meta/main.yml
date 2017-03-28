@@ -1,0 +1,26 @@
+---
+galaxy_info:
+  author: Brian Shumate
+  description: Consul cluster role
+  company:
+  license: BSD
+  min_ansible_version: 2.1.0.0
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  - name: FreeBSD
+    versions:
+    - 11.0
+  - name: Ubuntu
+    versions:
+    - xenial
+  - name: Debian
+    versions:
+    - jessie
+  galaxy_tags:
+  - monitoring
+  - networking
+  - system
+dependencies: []
